@@ -1,0 +1,2 @@
+- [Bad Calculator](https://github.com/mkohlhaas/ch01-bad_calculator)
+- [Block Finder](https://github.com/mkohlhaas/ch01-block_finder)
