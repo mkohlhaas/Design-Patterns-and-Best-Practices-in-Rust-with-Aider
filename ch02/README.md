@@ -1,0 +1,5 @@
+- [Bad Calculator](https://github.com/mkohlhaas/ch02-bad_calculator)
+- [Not so Bad Calculator](https://github.com/mkohlhaas/ch02-not_so_bad_calculator)
+- [Worse Calculator](https://github.com/mkohlhaas/ch02-worse_calculator)
+- [Pets](https://github.com/mkohlhaas/ch02-pets)
+- [Block Finder](https://github.com/mkohlhaas/ch02-block_finder)
