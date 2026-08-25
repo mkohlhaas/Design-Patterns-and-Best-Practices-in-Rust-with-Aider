@@ -1,0 +1,8 @@
+1. [Abstract Factory](https://github.com/mkohlhaas/ch05-abstract-factory)
+2. [Builder Pattern](https://github.com/mkohlhaas/ch05-builder-pattern)
+3. [Configuration Pattern](https://github.com/mkohlhaas/ch05-configuration-pattern)
+4. [Correct Calculator](https://github.com/mkohlhaas/ch05-correct-calculator)
+5. [Enum Factories](https://github.com/mkohlhaas/ch05-enum-factories)
+6. [Prototype Pattern](https://github.com/mkohlhaas/ch05-prototype-pattern)
+7. [Singleton Pattern](https://github.com/mkohlhaas/ch05-singleton-pattern)
+8. [Typestate Pattern](https://github.com/mkohlhaas/ch05-typestate-pattern)
