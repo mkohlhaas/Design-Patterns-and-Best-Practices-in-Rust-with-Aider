@@ -33,6 +33,16 @@
 
 ### Chapter 6, Structural Patterns: Connecting and Aggregating Components
 
+1. [Adapter Pattern](https://github.com/mkohlhaas/ch06-adapter-pattern)
+2. [Bridge Pattern](https://github.com/mkohlhaas/ch06-bridge-pattern)
+3. [Composite Pattern](https://github.com/mkohlhaas/ch06-composite-pattern)
+4. [Correct Calculator](https://github.com/mkohlhaas/ch06-correct-calculator)
+5. [Decorator Pattern](https://github.com/mkohlhaas/ch06-decorator-pattern)
+6. [Facade Pattern](https://github.com/mkohlhaas/ch06-facade-pattern)
+7. [Flyweight Pattern](https://github.com/mkohlhaas/ch06-flyweight-pattern)
+8. [Proxy Pattern](https://github.com/mkohlhaas/ch06-proxy-pattern)
+9. [Visibility](https://github.com/mkohlhaas/ch06-visibility)
+
 ### Chapter 7, Behavioral Patterns 1: Taking Action
 
 ### Chapter 8, Behavioral Patterns 2: Keeping Track
