@@ -45,6 +45,14 @@
 
 ### Chapter 7, Behavioral Patterns 1: Taking Action
 
+1. [Chain of Responsibility Pattern](https://github.com/mkohlhaas/ch07-chain-of-responsibility-pattern)
+2. [Command Pattern](https://github.com/mkohlhaas/ch07-command-pattern)
+3. [Correct Calculator](https://github.com/mkohlhaas/ch07-correct-calculator)
+4. [Mediator Pattern](https://github.com/mkohlhaas/ch07-mediator-pattern)
+5. [Shunting-Yard Algorithm](https://github.com/mkohlhaas/ch07-shunting-yard)
+6. [Strategy Pattern](https://github.com/mkohlhaas/ch07-strategy-pattern)
+7. [Template Pattern](https://github.com/mkohlhaas/ch07-template-method-pattern)
+
 ### Chapter 8, Behavioral Patterns 2: Keeping Track
 
 ### Chapter 9, Architectural Patterns
