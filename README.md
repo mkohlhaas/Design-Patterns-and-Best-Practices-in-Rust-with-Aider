@@ -55,6 +55,22 @@
 
 ### Chapter 8, Behavioral Patterns 2: Keeping Track
 
+1. [Correct Calculator](https://github.com/mkohlhaas/ch08-correct-calculator)
+2. [Double Dispatch Pattern](https://github.com/mkohlhaas/ch08-double-dispatch-pattern)
+3. [Double Ended Iterator](https://github.com/mkohlhaas/ch08-double-ended-iterator)
+4. [Foo](https://github.com/mkohlhaas/ch08-foo)
+5. [Iterator Design Pattern](https://github.com/mkohlhaas/ch08-iterator-pattern)
+6. [Rust Lifetimes Explained](https://github.com/mkohlhaas/ch08-lifetimes-1)
+7. [Memento Design Pattern](https://github.com/mkohlhaas/ch08-memento-pattern)
+8. [Observer Design Pattern 1](https://github.com/mkohlhaas/ch08-observer-pattern-1)
+9. [Observer Design Pattern 2](https://github.com/mkohlhaas/ch08-observer-pattern-2)
+10. [State Design Pattern](https://github.com/mkohlhaas/ch08-state-pattern)
+11. [Classic Object-Oriented (OO) State Pattern](https://github.com/mkohlhaas/ch08-state-pattern-classic-oo)
+12. [Typestate Pattern](https://github.com/mkohlhaas/ch08-state-pattern-typestate)
+13. [Unsize Coercion](https://github.com/mkohlhaas/ch08-unsize-coercion)
+14. [Visitor Design Pattern](https://github.com/mkohlhaas/ch08-visitor-pattern)
+15. [Visitor Design Pattern - AST](https://github.com/mkohlhaas/ch08-visitor-pattern-ast)
+
 ### Chapter 9, Architectural Patterns
 
 ### Chapter 10, Patterns That Leverage the Type System
