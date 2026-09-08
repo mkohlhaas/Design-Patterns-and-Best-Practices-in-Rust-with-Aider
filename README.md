@@ -73,6 +73,9 @@
 
 ### Chapter 9, Architectural Patterns
 
+1. [Downward Dataflow Architecture](https://github.com/mkohlhaas/ch09-downward-data-flow)
+2. [Samsa](https://github.com/mkohlhaas/ch09-samsa)
+
 ### Chapter 10, Patterns That Leverage the Type System
 
 ### Chapter 11, Patterns from Functional Programming
