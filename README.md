@@ -89,6 +89,18 @@
 
 ### Chapter 11: Patterns from Functional Programming
 
+1. [Extension Trait Pattern](https://github.com/mkohlhaas/ch11-extension-trait-pattern)
+2. [Generics as Type Classes](https://github.com/mkohlhaas/ch11-generics-type-classes)
+3. [Samsa](https://github.com/mkohlhaas/ch11-samsa)
+
+```text
+  - Function pipelines and how Rust's iterator chains enable elegant data transformation
+  - Using generics to model type classes and enhance the TypeState pattern
+  - Advanced pattern matching techniques for control flow and data extraction
+  - Closure-based patterns for creating flexible and reusable code components
+```
+
+
 ### Chapter 12: Patterns Emerging from Rust's Core Features
 
 ### Chapter 13: Leaning into Rust
